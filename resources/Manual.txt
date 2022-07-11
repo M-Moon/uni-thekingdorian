@@ -1,0 +1,10 @@
+w - jump
+d - move right
+a - move left
+
+space - shoot
+
+i - interact (with NPCs)
+p - pause
+
+mouse to select menu items

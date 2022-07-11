@@ -1,0 +1,60 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+Do Not Translate or Localize
+
+This project incorporates components from the projects listed below. The original copyright notices and the licenses under which Microsoft received such components are set forth below. Microsoft reserves all rights not expressly granted herein, whether by implication, estoppel or otherwise.
+
+1. Retro Success Melody 02 - choir soprano.wav (https://kronbits.itch.io/freesfx?download) [CC0 License]
+2. Retro Success Melody 04 - electric piano 2 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+3. RetroSuccessMelody01 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+4. RetroPickUpCoin04 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+5. RetroPickUpCoin07 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+6. RetroRoarLoFi01 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+7. RetroRoarLoFi08 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+8. RetroImpactPunch01 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+9. RetroImpactPunch07 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+10. RetroJumpClassic08 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+11. RetroPotionSound1-new (https://kronbits.itch.io/freesfx?download) [CC0 License]
+12. RetroSwooosh02 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+13. RetroSwooosh07 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+14. RetroSwooosh16 (https://kronbits.itch.io/freesfx?download) [CC0 License]
+15. “Spike Set” by bevouliin licensed CC0 1.0: - https://opengameart.org/content/bevouliin-freeingame-items-spike-monsters
+16. “Land Monster” by bevouliin licensed CC0 1.0: - https://opengameart.org/content/skull-gameobstacle
+17. "Tileable Bricks Ground Textures - Set 1" by Cethiel licensed CC0 1.0: https://opengameart.org/content/tileable-bricks-ground-textures-set-1
+18. "Wizard" by Blarumyrran licensed CC0 1.0: https://opengameart.org/content/wizard-0
+19. "Castle Door" by Tuomo Untinen licensed CC-BY-3.0: https://opengameart.org/content/castle-door
+20. SCP-005 Skeleton Key "armisius[https://opengameart.org/users/armisius] licensed CC-BY 4.0:
+https://opengameart.org/content/scp-005-skeleton-key
+21. "Fortress background/storyboard image" by JAP licensed CC-BY-SA 3.0, GPL 3.0 or GPL 2.0:
+https://opengameart.org/content/fortress-backgroundstoryboard-image
+22. “A New Hero Is Rising” by Marcelo Fernández
+(http://www.marcelofernandezmusic.com/). Licensed under Creative Commons Attribution 4.0
+International (https://creativecommons.org/licenses/by/4.0/).
+23. “Hero Knight” by sventhole procured under itch.io ToS[https://itch.io/docs/legal/terms]: -
+https://sventhole.itch.io/hero-knight
+24. “Medieval Knight” by OcO procured under itch.io ToS[https://itch.io/docs/legal/terms]: -
+https://oco.itch.io/medieval-fantasy-character-pack -old one
+25. “Free Tiny Hero Sprites Pixel Art” by free-game-assets procured under itch.io
+ToS[https://itch.io/docs/legal/terms]: - https://free-game-assets.itch.io/free-tiny-hero-sprites-pixelart26.
+26. “Medieval King Pack 2” by luizmelo procured under itch.io ToS[https://itch.io/docs/legal/terms]: -
+https://luizmelo.itch.io/medieval-king-pack-2
+27. "Pixel Fantasy - Caves" by SZADIART procured under itch.io ToS[https://itch.io/docs/legal/terms]:
+https://szadiart.itch.io/pixel-fantasy-caves
+28. "Forest Lite Pixel Art Tileset" by sanctumpixel procured under itch.io
+Tos[https://itch.io/docs/legal/terms]: https://sanctumpixel.itch.io/forest-lite-pixel-art-tileset
+29. "Platformer Fantasy set1" by SZADIART procured under itch.io Tos[https://itch.io/docs/legal/terms] :
+https://szadiart.itch.io/platformer-fantasy-set1
+30.
+
+Licenses:
+
+License CC0 - https://kronbits.itch.io/freesfx?download
+License CC0 1.0:: https://creativecommons.org/publicdomain/zero/1.0/
+License for Castle Door: https://creativecommons.org/licenses/by/3.0/
+License for Skeleton Key: https://creativecommons.org/licenses/by/4.0/
+Licenses for Fortress Background:
+    http://creativecommons.org/licenses/by-sa/3.0/
+    http://www.gnu.org/licenses/gpl-3.0.html
+    http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+License: https://itch.io/docs/legal/terms
+    Section 4 & 5 allows a non-exclusive license on all assets for use within games once downloaded by
+    the user
